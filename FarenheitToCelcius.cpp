@@ -10,6 +10,6 @@ int main()
 
     Celcius = (Farenheit-32) / 1.8;
     std::cout<< "The temperature in Celcius is: "<<Celcius;
-
+    
     return 0;
 }
